@@ -1,8 +1,10 @@
-# DODGE.rkt: a 2D dodging game made in Racket!
+# DODGE.rkt - A 2D dodging game made in Racket
 
-DODGE.rkt is a 2D top-down action game, in which one attempts to dodge fast-moving rectangles coming at you from all directions through levels of incresing difficulty!
+DODGE.rkt is a two-dimensional top-down dosging game, in which one attempts to avoid fast-moving rectangles coming at you from all directions through levels of incresing difficulty!
 
-It has been designed to demonstrate the endless possibilities available even in simple functional programming languages like Racket.
+These rectangles are randomly generated with different velocities and sizes, and their art style attempts to recreate the abstract paintings of Dutch artist Piet Mondriaan.
+
+The game has been designed to demonstrate the endless possibilities available even in simple functional programming languages like Racket.
 
 ## To Run
 Download zip of files or clone to your own computer.
